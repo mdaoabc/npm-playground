@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mdao_dep_package": "0.0.1"
+    "mdao_dep_package": "^0.0.1"
   }
 }
